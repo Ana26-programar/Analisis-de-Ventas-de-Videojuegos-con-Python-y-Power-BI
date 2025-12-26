@@ -40,7 +40,7 @@ El proyecto cubre todo el flujo de trabajo de un análisis de datos: limpieza, e
 
 El dashboard permite explorar de forma interactiva las ventas globales por plataforma, región, año y videojuego.
 
-![Dashboard Power BI](images/dashboard_final.png)
+![Dashboard Power BI](images/dashboard_ventas_videojuegos.pdf)
 
 ---
 
